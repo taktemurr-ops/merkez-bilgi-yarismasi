@@ -83,7 +83,7 @@ final hubConfig = HubConfig(
       'Bản đồ, khoa học, thiên nhiên và lịch sử trong một ứng dụng',
       'Mapa, agham, kalikasan at kasaysayan sa isang app',
     ],
-  seedColor: const Color(0xFF2E5E8C),
+  seedColor: const Color(0xFFDC7C19),
   icon: Icons.quiz_outlined,
   games: [
     genelKulturConfig,
