@@ -18,35 +18,35 @@ dependencies:
   oyun_genel_kultur:
     git:
       url: https://github.com/taktemurr-ops/oyun-genel-kultur
-      ref: 056097b95503e59ec46b200a49bafcdb1f079b78
+      ref: b8bdfe9739e9821fc0b81f70ff388dd86decf257
   oyun_hangisi_daha:
     git:
       url: https://github.com/taktemurr-ops/oyun-hangisi-daha
-      ref: 703e9f743a068e7c3e37fbef34f8f88f214a2a6e
+      ref: a479d52bd5990898250e6f510d616edb416bd1c1
   oyun_bilgi_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilgi-duellosu
-      ref: c7e6a8a1f39f16906cff618a995639ea8ca7e51e
+      ref: 1cdcd8ac7c04f1815bc4c097750d068e45276cc6
   oyun_dunya_haritasi_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-dunya-haritasi-yerlestirme
-      ref: b3f12095991dda8c7f61707dc5c0c3c38d5a5568
+      ref: 9ea6658491277e1b246fad9b0d74ffeeb6040e74
   oyun_turkiye_illeri_ve_plakalar:
     git:
       url: https://github.com/taktemurr-ops/oyun-turkiye-illeri-ve-plakalar
-      ref: d81859c15b62a4190e24b25a27256514e5b14fad
+      ref: 1d7351a5f3bf7e8ea1e830dbbcec6d01e667b630
   oyun_tarih_ve_tarihler:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler
-      ref: 2a097a0a145663a8bbb77ef894405e7d970c9a68
+      ref: a702e3145fa08a8499a48a59add44479b75c120e
   oyun_elementler_ve_bilim:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
-      ref: 6377d66f30894788dbb294d1d1458757d110f0d2
+      ref: 23ceb4c4622e4ec9b7397b627489c04ff44b0c29
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
-      ref: 045f5de5fc29cd37c540aaa1493ebb45a3add536
+      ref: bb3b19057597ec38d54f5bd1464567625595b6da
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -64,7 +64,7 @@ dependency_overrides:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 418d258feb28d8131d9478be8bd5ac31959e9e96
+      ref: 7232f19f43e8ab7b8974d57b611974caf3c17104
 
 dev_dependencies:
   flutter_test:
