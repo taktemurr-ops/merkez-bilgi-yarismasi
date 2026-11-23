@@ -1,7 +1,7 @@
-A Tudáskvíz 8 kvízjátékot gyűjt egy appba: keresd meg az országokat a térképen, ismerd meg Törökország 81 tartományát és kódjait, a periódusos rendszert, a bolygókat, az állatvilágot és az idővonalat. Minden kérdés nyílt adatokból készül, a válasz után rövid magyarázat jön. Ketten egy telefonon is párbajozhattok.
+A Tudáskvíz 12 kvízjátékot gyűjt egy appba: keresd meg az országokat a térképen, ismerd meg Törökország 81 tartományát és kódjait, a periódusos rendszert, a bolygókat, az állatvilágot és az idővonalat. Minden kérdés nyílt adatokból készül, a válasz után rövid magyarázat jön. Ketten egy telefonon is párbajozhattok.
 
-• Vegyes és gyors: Általános Műveltség, Melyik inkább?, Tudáspárbaj
-• Világ, Törökország, történelem: Világtérkép, Tartományok és Rendszámok, Történelem és Évszámok
+• Vegyes és gyors: Általános Műveltség, Melyik inkább?, Igaz vagy kitalált?, Becslés Mestere, Állítsd sorba, Tudáspárbaj
+• Világ, Törökország, történelem: Világtérkép, Tartományok és Rendszámok, Történelem és Évszámok, A Világ Konyhája
 • Tudomány és természet: Elemek és Tudomány, Állatok és Természet
 
 Kiemelt

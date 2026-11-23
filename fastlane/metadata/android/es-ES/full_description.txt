@@ -1,7 +1,7 @@
-Quiz de Saber reúne 8 juegos de preguntas en una app. Encuentra países tocando el mapa, aprende las 81 provincias de Türkiye y sus matrículas, explora la tabla periódica y los planetas, el reino animal y la línea del tiempo. Cada pregunta se crea con datos abiertos y cada respuesta trae una breve explicación. Dos jugadores pueden batirse cara a cara en un móvil.
+Quiz de Saber reúne 12 juegos de preguntas en una app. Encuentra países tocando el mapa, aprende las 81 provincias de Türkiye y sus matrículas, explora la tabla periódica y los planetas, el reino animal y la línea del tiempo. Cada pregunta se crea con datos abiertos y cada respuesta trae una breve explicación. Dos jugadores pueden batirse cara a cara en un móvil.
 
-• Mezcla rápida: Cultura General, ¿Cuál es más?, Duelo de Saber
-• Mundo, Türkiye e historia: Mapamundi, Provincias y Matrículas, Historia y Fechas
+• Mezcla rápida: Cultura General, ¿Cuál es más?, ¿Verdad o Invento?, Maestro de la Estimación, Ponlo en Orden, Duelo de Saber
+• Mundo, Türkiye e historia: Mapamundi, Provincias y Matrículas, Historia y Fechas, Cocina del Mundo
 • Ciencia y naturaleza: Elementos y Ciencia, Animales y Naturaleza
 
 Lo más destacado

@@ -1,1 +1,1 @@
-8 quiz: kartor, provinser, grundämnen, djur, historia och dueller!
+12 quiz: kartor, provinser, grundämnen, djur, historia och dueller!

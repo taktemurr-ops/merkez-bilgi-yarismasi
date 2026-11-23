@@ -1,7 +1,7 @@
-Quiz de Conhecimento reúne 8 quizzes num só app: encontre países tocando no mapa, aprenda as 81 províncias da Turquia e seus códigos, a tabela periódica, os planetas, o reino animal e a linha do tempo. Cada pergunta é criada com dados abertos e cada resposta traz uma breve explicação. Dois jogadores podem duelar cara a cara num celular.
+Quiz de Conhecimento reúne 12 quizzes num só app: encontre países tocando no mapa, aprenda as 81 províncias da Turquia e seus códigos, a tabela periódica, os planetas, o reino animal e a linha do tempo. Cada pergunta é criada com dados abertos e cada resposta traz uma breve explicação. Dois jogadores podem duelar cara a cara num celular.
 
-• Mistos e rápidos: Conhecimentos Gerais, Qual é mais?, Duelo de Saber
-• Mundo, Turquia e história: Mapa-Múndi, Províncias e Placas, História e Datas
+• Mistos e rápidos: Conhecimentos Gerais, Qual é mais?, Verdade ou Invenção?, Mestre da Estimativa, Coloque em Ordem, Duelo de Saber
+• Mundo, Turquia e história: Mapa-Múndi, Províncias e Placas, História e Datas, Cozinha do Mundo
 • Ciência e natureza: Elementos e Ciência, Animais e Natureza
 
 Destaques

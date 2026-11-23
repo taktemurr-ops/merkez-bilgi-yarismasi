@@ -1,7 +1,7 @@
-Pinagsasama ng Quiz ng Kaalaman ang 8 larong quiz sa isang app: hanapin ang mga bansa sa pag-tap sa mapa, alamin ang 81 lalawigan ng Türkiye at ang kanilang code, ang periodic table, mga planeta, kaharian ng hayop at timeline. Bawat tanong ay mula sa bukas na datos at may maikling paliwanag pagkatapos sumagot. Puwedeng magduwelo ang dalawa sa iisang telepono.
+Pinagsasama ng Quiz ng Kaalaman ang 12 larong quiz sa isang app: hanapin ang mga bansa sa pag-tap sa mapa, alamin ang 81 lalawigan ng Türkiye at ang kanilang code, ang periodic table, mga planeta, kaharian ng hayop at timeline. Bawat tanong ay mula sa bukas na datos at may maikling paliwanag pagkatapos sumagot. Puwedeng magduwelo ang dalawa sa iisang telepono.
 
-• Halo-halo at mabilis: Pangkalahatang Kaalaman, Alin ang Mas?, Duelo ng Kaalaman
-• Mundo, Türkiye at kasaysayan: Mapa ng Mundo, Lalawigan at Plaka, Kasaysayan at Petsa
+• Halo-halo at mabilis: Pangkalahatang Kaalaman, Alin ang Mas?, Totoo o Imbento?, Dalubhasa sa Pagtantiya, Ayusin ang Pagkakasunod, Duelo ng Kaalaman
+• Mundo, Türkiye at kasaysayan: Mapa ng Mundo, Lalawigan at Plaka, Kasaysayan at Petsa, Kusina ng Mundo
 • Agham at kalikasan: Elemento at Agham, Hayop at Kalikasan
 
 Mga tampok

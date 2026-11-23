@@ -1,7 +1,7 @@
-Knowledge Quiz brings 8 quiz games into one app. Find countries by tapping the map, learn Türkiye’s 81 provinces and their plate codes, explore the periodic table and the planets, get to know the animal kingdom and put events on the timeline. Every question is built from open data, and a short explanation follows each answer. Two players can duel face to face on one phone.
+Knowledge Quiz brings 12 quiz games into one app. Find countries by tapping the map, learn Türkiye’s 81 provinces and their plate codes, explore the periodic table and the planets, get to know the animal kingdom and put events on the timeline. Every question is built from open data, and a short explanation follows each answer. Two players can duel face to face on one phone.
 
-• Mixed and fast: General Knowledge, Which Is More?, Quiz Duel
-• World, Türkiye and history: World Map Quiz, Provinces and Plates, History and Dates
+• Mixed and fast: General Knowledge, Which Is More?, True or Made Up?, Estimation Master, Put Them in Order, Quiz Duel
+• World, Türkiye and history: World Map Quiz, Provinces and Plates, History and Dates, World Kitchen
 • Science and nature: Elements and Science, Animals and Nature
 
 Highlights

@@ -7,10 +7,14 @@ void main() {
     expect(ids, [
       'oyun-genel-kultur',
       'oyun-hangisi-daha',
+      'oyun-dogru-mu-uydurma-mi',
+      'oyun-tahmin-ustasi',
+      'oyun-sirala-bakalim',
       'oyun-bilgi-duellosu',
       'oyun-dunya-haritasi-yerlestirme',
       'oyun-turkiye-illeri-ve-plakalar',
       'oyun-tarih-ve-tarihler',
+      'oyun-dunya-mutfagi',
       'oyun-elementler-ve-bilim',
       'oyun-hayvanlar-ve-doga',
     ]);

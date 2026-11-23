@@ -1,7 +1,7 @@
-Kunnskapsquiz samler 8 quizspill i én app: finn land ved å trykke på kartet, lær Tyrkias 81 provinser og kodene deres, periodesystemet, planetene, dyreriket og tidslinjen. Hvert spørsmål bygger på åpne data, og hvert svar følges av en kort forklaring. To spillere kan duellere ansikt til ansikt på én telefon.
+Kunnskapsquiz samler 12 quizspill i én app: finn land ved å trykke på kartet, lær Tyrkias 81 provinser og kodene deres, periodesystemet, planetene, dyreriket og tidslinjen. Hvert spørsmål bygger på åpne data, og hvert svar følges av en kort forklaring. To spillere kan duellere ansikt til ansikt på én telefon.
 
-• Blandet og raskt: Allmennkunnskap, Hva er mest?, Kunnskapsduell
-• Verden, Tyrkia og historie: Verdenskartet, Provinser og Skilt, Historie og Årstall
+• Blandet og raskt: Allmennkunnskap, Hva er mest?, Sant eller Oppdiktet?, Anslagsmesteren, Sett i Rekkefølge, Kunnskapsduell
+• Verden, Tyrkia og historie: Verdenskartet, Provinser og Skilt, Historie og Årstall, Verdens Kjøkken
 • Vitenskap og natur: Grunnstoffer og Vitenskap, Dyr og Natur
 
 Høydepunkter

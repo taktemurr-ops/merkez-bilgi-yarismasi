@@ -1,7 +1,7 @@
-Videnquiz samler 8 quizspil i én app: find lande ved at trykke på kortet, lær Tyrkiets 81 provinser og deres koder, periodesystemet, planeterne, dyreriget og tidslinjen. Hvert spørgsmål bygger på åbne data, og hvert svar følges af en kort forklaring. To spillere kan duellere ansigt til ansigt på én telefon.
+Videnquiz samler 12 quizspil i én app: find lande ved at trykke på kortet, lær Tyrkiets 81 provinser og deres koder, periodesystemet, planeterne, dyreriget og tidslinjen. Hvert spørgsmål bygger på åbne data, og hvert svar følges af en kort forklaring. To spillere kan duellere ansigt til ansigt på én telefon.
 
-• Blandet og hurtigt: Almen Viden, Hvad er mest?, Videnduel
-• Verden, Tyrkiet og historie: Verdenskortet, Provinser og Nummerplader, Historie og Årstal
+• Blandet og hurtigt: Almen Viden, Hvad er mest?, Sandt eller Opdigtet?, Gætmesteren, Sæt i Rækkefølge, Videnduel
+• Verden, Tyrkiet og historie: Verdenskortet, Provinser og Nummerplader, Historie og Årstal, Verdens Køkken
 • Videnskab og natur: Grundstoffer og Videnskab, Dyr og Natur
 
 Højdepunkter

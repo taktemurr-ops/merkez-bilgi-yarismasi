@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:oyun_bilgi_duellosu/oyun_bilgi_duellosu.dart';
+import 'package:oyun_dogru_mu_uydurma_mi/oyun_dogru_mu_uydurma_mi.dart';
 import 'package:oyun_dunya_haritasi_yerlestirme/oyun_dunya_haritasi_yerlestirme.dart';
+import 'package:oyun_dunya_mutfagi/oyun_dunya_mutfagi.dart';
 import 'package:oyun_elementler_ve_bilim/oyun_elementler_ve_bilim.dart';
 import 'package:oyun_genel_kultur/oyun_genel_kultur.dart';
 import 'package:oyun_hangisi_daha/oyun_hangisi_daha.dart';
 import 'package:oyun_hayvanlar_ve_doga/oyun_hayvanlar_ve_doga.dart';
+import 'package:oyun_sirala_bakalim/oyun_sirala_bakalim.dart';
+import 'package:oyun_tahmin_ustasi/oyun_tahmin_ustasi.dart';
 import 'package:oyun_tarih_ve_tarihler/oyun_tarih_ve_tarihler.dart';
 import 'package:oyun_turkiye_illeri_ve_plakalar/oyun_turkiye_illeri_ve_plakalar.dart';
 import 'package:studio_core/app/hub.dart';
@@ -83,26 +87,34 @@ final hubConfig = HubConfig(
       'Bản đồ, khoa học, thiên nhiên và lịch sử trong một ứng dụng',
       'Mapa, agham, kalikasan at kasaysayan sa isang app',
     ],
-  seedColor: const Color(0xFFDC7C19),
+  seedColor: const Color(0xFF2E5E8C),
   icon: Icons.quiz_outlined,
   games: [
     genelKulturConfig,
     hangisiDahaConfig,
+    dogruMuUydurmaMiConfig,
+    tahminUstasiConfig,
+    siralaBakalimConfig,
     bilgiDuellosuConfig,
     dunyaHaritasiConfig,
     turkiyeIlleriConfig,
     tarihVeTarihlerConfig,
+    dunyaMutfagiConfig,
     elementlerBilimConfig,
     hayvanlarDogaConfig,
   ],
   starters: ['oyun-genel-kultur', 'oyun-dunya-haritasi-yerlestirme', 'oyun-bilgi-duellosu'],
   covers: const {
     'oyun-bilgi-duellosu': GameCover('duelc'),
+    'oyun-dogru-mu-uydurma-mi': GameCover('tfcardc'),
     'oyun-dunya-haritasi-yerlestirme': GameCover('globec'),
+    'oyun-dunya-mutfagi': GameCover('platterc'),
     'oyun-elementler-ve-bilim': GameCover('atomc', label: 'Fe'),
     'oyun-genel-kultur': GameCover('quizc'),
     'oyun-hangisi-daha': GameCover('scalec'),
     'oyun-hayvanlar-ve-doga': GameCover('pawc'),
+    'oyun-sirala-bakalim': GameCover('stairc'),
+    'oyun-tahmin-ustasi': GameCover('gaugec'),
     'oyun-tarih-ve-tarihler': GameCover('timelinec'),
     'oyun-turkiye-illeri-ve-plakalar': GameCover('platec', label: '34'),
   },
@@ -144,7 +156,7 @@ final hubConfig = HubConfig(
           'Tổng hợp và nhanh',
           'Halo-halo at mabilis',
         ],
-        ids: ['oyun-genel-kultur', 'oyun-hangisi-daha', 'oyun-bilgi-duellosu']),
+        ids: ['oyun-genel-kultur', 'oyun-hangisi-daha', 'oyun-dogru-mu-uydurma-mi', 'oyun-tahmin-ustasi', 'oyun-sirala-bakalim', 'oyun-bilgi-duellosu']),
     HubSection(
         title: [
           'Dünya, Türkiye ve tarih',
@@ -181,7 +193,7 @@ final hubConfig = HubConfig(
           'Thế giới, Thổ Nhĩ Kỳ và lịch sử',
           'Mundo, Türkiye at kasaysayan',
         ],
-        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler']),
+        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler', 'oyun-dunya-mutfagi']),
     HubSection(
         title: [
           'Bilim ve doğa',

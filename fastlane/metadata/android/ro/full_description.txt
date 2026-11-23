@@ -1,7 +1,7 @@
-Quiz de Cunoștințe reunește 8 jocuri de cunoștințe: găsește țări atingând harta, învață cele 81 de provincii ale Turciei și codurile lor, tabelul periodic, planetele, regnul animal și axa timpului. Fiecare întrebare e creată din date deschise, iar după răspuns urmează o scurtă explicație. Doi jucători se pot duela pe un singur telefon.
+Quiz de Cunoștințe reunește 12 jocuri de cunoștințe: găsește țări atingând harta, învață cele 81 de provincii ale Turciei și codurile lor, tabelul periodic, planetele, regnul animal și axa timpului. Fiecare întrebare e creată din date deschise, iar după răspuns urmează o scurtă explicație. Doi jucători se pot duela pe un singur telefon.
 
-• Amestec rapid: Cultură Generală, Care e mai mult?, Duel de Cunoștințe
-• Lumea, Turcia și istoria: Harta Lumii, Provincii și Numere, Istorie și Date
+• Amestec rapid: Cultură Generală, Care e mai mult?, Adevărat sau Inventat?, Maestrul Estimărilor, Pune-le în Ordine, Duel de Cunoștințe
+• Lumea, Turcia și istoria: Harta Lumii, Provincii și Numere, Istorie și Date, Bucătăria Lumii
 • Știință și natură: Elemente și Știință, Animale și Natură
 
 Puncte forte

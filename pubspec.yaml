@@ -23,6 +23,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-hangisi-daha
       ref: 6642563529a73a2413af87717c7b9162899eb09f
+  oyun_dogru_mu_uydurma_mi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dogru-mu-uydurma-mi
+      ref: 7ce35327723c9230d5a894862cd1222658ea639a
+  oyun_tahmin_ustasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tahmin-ustasi
+      ref: 452b4f2a7f542bd026fe7575b1548cfd6ce653cf
+  oyun_sirala_bakalim:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sirala-bakalim
+      ref: fdcb45c77750796acda4826d83629ad78f081b3d
   oyun_bilgi_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilgi-duellosu
@@ -39,6 +51,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler
       ref: 63a99759e99fcd234607945e04a6dcbac2e777bb
+  oyun_dunya_mutfagi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dunya-mutfagi
+      ref: e0179dd6a8e7f942d89775737f81e85038ffea22
   oyun_elementler_ve_bilim:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
@@ -64,7 +80,7 @@ dependency_overrides:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: cc382f8ffd94ab63cb33a2fb58e6efe4b44adfbf
+      ref: 5675ce076f8f3a1f5fa2210534f87917b4415ef3
 
 dev_dependencies:
   flutter_test:

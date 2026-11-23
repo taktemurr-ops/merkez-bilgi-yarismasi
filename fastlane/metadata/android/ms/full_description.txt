@@ -1,7 +1,7 @@
-Kuiz Pengetahuan menghimpunkan 8 permainan kuiz dalam satu apl: cari negara dengan mengetik peta, kenali 81 wilayah Türkiye dan kodnya, jadual berkala, planet, alam haiwan dan garis masa. Setiap soalan dibina daripada data terbuka dan setiap jawapan disusuli penerangan ringkas. Dua pemain boleh berduel pada satu telefon.
+Kuiz Pengetahuan menghimpunkan 12 permainan kuiz dalam satu apl: cari negara dengan mengetik peta, kenali 81 wilayah Türkiye dan kodnya, jadual berkala, planet, alam haiwan dan garis masa. Setiap soalan dibina daripada data terbuka dan setiap jawapan disusuli penerangan ringkas. Dua pemain boleh berduel pada satu telefon.
 
-• Campuran dan pantas: Pengetahuan Am, Mana Lebih?, Duel Pengetahuan
-• Dunia, Türkiye dan sejarah: Peta Dunia, Wilayah dan Plat, Sejarah dan Tarikh
+• Campuran dan pantas: Pengetahuan Am, Mana Lebih?, Benar atau Rekaan?, Pakar Anggaran, Susun Ikut Urutan, Duel Pengetahuan
+• Dunia, Türkiye dan sejarah: Peta Dunia, Wilayah dan Plat, Sejarah dan Tarikh, Dapur Dunia
 • Sains dan alam: Unsur dan Sains, Haiwan dan Alam
 
 Sorotan

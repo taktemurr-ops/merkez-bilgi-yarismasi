@@ -1,7 +1,7 @@
-Kunskapsquiz samlar 8 quizspel i en app: hitta länder genom att trycka på kartan, lär dig Turkiets 81 provinser och deras koder, periodiska systemet, planeterna, djurriket och tidslinjen. Varje fråga bygger på öppna data och varje svar följs av en kort förklaring. Två spelare kan duellera ansikte mot ansikte på en telefon.
+Kunskapsquiz samlar 12 quizspel i en app: hitta länder genom att trycka på kartan, lär dig Turkiets 81 provinser och deras koder, periodiska systemet, planeterna, djurriket och tidslinjen. Varje fråga bygger på öppna data och varje svar följs av en kort förklaring. Två spelare kan duellera ansikte mot ansikte på en telefon.
 
-• Blandat och snabbt: Allmänbildning, Vilken är mer?, Kunskapsduell
-• Världen, Turkiet och historia: Världskartan, Provinser och Skyltar, Historia och Årtal
+• Blandat och snabbt: Allmänbildning, Vilken är mer?, Sant eller Påhittat?, Gissningsmästaren, Sätt i Ordning, Kunskapsduell
+• Världen, Turkiet och historia: Världskartan, Provinser och Skyltar, Historia och Årtal, Världens Kök
 • Vetenskap och natur: Grundämnen och Vetenskap, Djur och Natur
 
 Höjdpunkter
