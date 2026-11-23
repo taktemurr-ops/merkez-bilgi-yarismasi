@@ -18,35 +18,35 @@ dependencies:
   oyun_genel_kultur:
     git:
       url: https://github.com/taktemurr-ops/oyun-genel-kultur
-      ref: main
+      ref: 056097b95503e59ec46b200a49bafcdb1f079b78
   oyun_hangisi_daha:
     git:
       url: https://github.com/taktemurr-ops/oyun-hangisi-daha
-      ref: main
+      ref: 703e9f743a068e7c3e37fbef34f8f88f214a2a6e
   oyun_bilgi_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilgi-duellosu
-      ref: main
+      ref: c7e6a8a1f39f16906cff618a995639ea8ca7e51e
   oyun_dunya_haritasi_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-dunya-haritasi-yerlestirme
-      ref: main
+      ref: b3f12095991dda8c7f61707dc5c0c3c38d5a5568
   oyun_turkiye_illeri_ve_plakalar:
     git:
       url: https://github.com/taktemurr-ops/oyun-turkiye-illeri-ve-plakalar
-      ref: main
+      ref: d81859c15b62a4190e24b25a27256514e5b14fad
   oyun_tarih_ve_tarihler:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler
-      ref: main
+      ref: 2a097a0a145663a8bbb77ef894405e7d970c9a68
   oyun_elementler_ve_bilim:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
-      ref: main
+      ref: 6377d66f30894788dbb294d1d1458757d110f0d2
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
-      ref: main
+      ref: 045f5de5fc29cd37c540aaa1493ebb45a3add536
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -64,7 +64,7 @@ dependency_overrides:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: main
+      ref: 418d258feb28d8131d9478be8bd5ac31959e9e96
 
 dev_dependencies:
   flutter_test:
