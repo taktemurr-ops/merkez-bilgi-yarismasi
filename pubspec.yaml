@@ -13,40 +13,40 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: c940d60fdcbb22f7f737de465f2ed0c89de3a6b7
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_genel_kultur:
     git:
       url: https://github.com/taktemurr-ops/oyun-genel-kultur
-      ref: b8bdfe9739e9821fc0b81f70ff388dd86decf257
+      ref: 22cbdcf220a2c539d2a2d0d3a5cb825a5b554ce9
   oyun_hangisi_daha:
     git:
       url: https://github.com/taktemurr-ops/oyun-hangisi-daha
-      ref: a479d52bd5990898250e6f510d616edb416bd1c1
+      ref: 6642563529a73a2413af87717c7b9162899eb09f
   oyun_bilgi_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilgi-duellosu
-      ref: 1cdcd8ac7c04f1815bc4c097750d068e45276cc6
+      ref: 6217194014aae6e879e372161a0e2761b851cbb0
   oyun_dunya_haritasi_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-dunya-haritasi-yerlestirme
-      ref: 9ea6658491277e1b246fad9b0d74ffeeb6040e74
+      ref: 9978a3c7c10f1883aa73a26bc0208ea4fd731dfa
   oyun_turkiye_illeri_ve_plakalar:
     git:
       url: https://github.com/taktemurr-ops/oyun-turkiye-illeri-ve-plakalar
-      ref: 1d7351a5f3bf7e8ea1e830dbbcec6d01e667b630
+      ref: 000461d8287fcfb7dd1331dcbf1e74d5e4e06777
   oyun_tarih_ve_tarihler:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler
-      ref: a702e3145fa08a8499a48a59add44479b75c120e
+      ref: 63a99759e99fcd234607945e04a6dcbac2e777bb
   oyun_elementler_ve_bilim:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
-      ref: 23ceb4c4622e4ec9b7397b627489c04ff44b0c29
+      ref: c423791abbf301af8707dcb2f5b8df3ec759c2ab
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
-      ref: bb3b19057597ec38d54f5bd1464567625595b6da
+      ref: dca4bbf71e4f34c5b7af117d82b098b3c0fdcd65
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -60,11 +60,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: c940d60fdcbb22f7f737de465f2ed0c89de3a6b7
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 7232f19f43e8ab7b8974d57b611974caf3c17104
+      ref: cc382f8ffd94ab63cb33a2fb58e6efe4b44adfbf
 
 dev_dependencies:
   flutter_test:
