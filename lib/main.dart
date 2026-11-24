@@ -11,7 +11,7 @@ import 'package:oyun_sirala_bakalim/oyun_sirala_bakalim.dart';
 import 'package:oyun_tahmin_ustasi/oyun_tahmin_ustasi.dart';
 import 'package:oyun_tarih_ve_tarihler/oyun_tarih_ve_tarihler.dart';
 import 'package:oyun_turkiye_illeri_ve_plakalar/oyun_turkiye_illeri_ve_plakalar.dart';
-import 'package:studio_core/app/hub.dart';
+import 'approved_hub.dart';
 
 /// Bilgi Yarışması: harita, Türkiye illeri, bilim, doğa ve tarih sorularından
 /// oluşan bilgi oyunlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
