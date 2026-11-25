@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_genel_kultur:
     git:
@@ -80,7 +80,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
