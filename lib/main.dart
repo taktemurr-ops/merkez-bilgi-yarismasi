@@ -7,11 +7,13 @@ import 'package:oyun_elementler_ve_bilim/oyun_elementler_ve_bilim.dart';
 import 'package:oyun_genel_kultur/oyun_genel_kultur.dart';
 import 'package:oyun_hangisi_daha/oyun_hangisi_daha.dart';
 import 'package:oyun_hayvanlar_ve_doga/oyun_hayvanlar_ve_doga.dart';
+import 'package:oyun_sanat_ve_edebiyat/oyun_sanat_ve_edebiyat.dart';
 import 'package:oyun_sirala_bakalim/oyun_sirala_bakalim.dart';
 import 'package:oyun_spor_bilgisi/oyun_spor_bilgisi.dart';
 import 'package:oyun_tahmin_ustasi/oyun_tahmin_ustasi.dart';
 import 'package:oyun_tarih_ve_tarihler/oyun_tarih_ve_tarihler.dart';
 import 'package:oyun_turkiye_illeri_ve_plakalar/oyun_turkiye_illeri_ve_plakalar.dart';
+import 'package:oyun_uzay_ve_astronomi/oyun_uzay_ve_astronomi.dart';
 import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -104,8 +106,10 @@ final hubConfig = HubConfig(
     turkiyeIlleriConfig,
     tarihVeTarihlerConfig,
     dunyaMutfagiConfig,
+    sanatVeEdebiyatConfig,
     elementlerBilimConfig,
     hayvanlarDogaConfig,
+    uzayVeAstronomiConfig,
     sporBilgisiConfig,
   ],
   starters: ['oyun-genel-kultur', 'oyun-dunya-haritasi-yerlestirme', 'oyun-bilgi-duellosu'],
@@ -118,11 +122,13 @@ final hubConfig = HubConfig(
     'oyun-genel-kultur': GameCover('quizc'),
     'oyun-hangisi-daha': GameCover('scalec'),
     'oyun-hayvanlar-ve-doga': GameCover('pawc'),
+    'oyun-sanat-ve-edebiyat': GameCover('paintc'),
     'oyun-sirala-bakalim': GameCover('stairc'),
     'oyun-spor-bilgisi': GameCover('ball'),
     'oyun-tahmin-ustasi': GameCover('gaugec'),
     'oyun-tarih-ve-tarihler': GameCover('timelinec'),
     'oyun-turkiye-illeri-ve-plakalar': GameCover('platec', label: '34'),
+    'oyun-uzay-ve-astronomi': GameCover('starsc'),
   },
   defaultCover: const GameCover('quizc', v: 1),
   sections: [
@@ -199,7 +205,7 @@ final hubConfig = HubConfig(
           'Thế giới, Thổ Nhĩ Kỳ và lịch sử',
           'Mundo, Türkiye at kasaysayan',
         ],
-        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler', 'oyun-dunya-mutfagi']),
+        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler', 'oyun-dunya-mutfagi', 'oyun-sanat-ve-edebiyat']),
     HubSection(
         title: [
           'Bilim ve doğa',
@@ -236,7 +242,7 @@ final hubConfig = HubConfig(
           'Khoa học và thiên nhiên',
           'Agham at kalikasan',
         ],
-        ids: ['oyun-elementler-ve-bilim', 'oyun-hayvanlar-ve-doga']),
+        ids: ['oyun-elementler-ve-bilim', 'oyun-hayvanlar-ve-doga', 'oyun-uzay-ve-astronomi']),
     HubSection(
         title: [
           'Spor',

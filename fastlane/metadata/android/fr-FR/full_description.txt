@@ -1,8 +1,8 @@
-Quiz de Culture réunit 12 jeux de quiz dans une app. Trouvez les pays en touchant la carte, découvrez les 81 provinces de Türkiye et leurs codes, le tableau périodique, les planètes, le règne animal et la frise de l’histoire. Chaque question est créée à partir de données ouvertes et chaque réponse est suivie d’une courte explication. Deux joueurs peuvent s’affronter face à face sur un téléphone.
+Quiz de Culture réunit 15 jeux de quiz dans une app. Trouvez les pays en touchant la carte, découvrez les 81 provinces de Türkiye et leurs codes, le tableau périodique, les planètes, le règne animal et la frise de l’histoire. Chaque question est créée à partir de données ouvertes et chaque réponse est suivie d’une courte explication. Deux joueurs peuvent s’affronter face à face sur un téléphone.
 
 • Mélange rapide: Culture Générale, Lequel est plus ?, Vrai ou Inventé ?, Maître de l’Estimation, Remettez dans l’Ordre, Duel de Savoir
-• Monde, Türkiye et histoire: Carte du Monde, Provinces et Plaques, Histoire et Dates, Cuisine du Monde
-• Sciences et nature: Éléments et Sciences, Animaux et Nature
+• Monde, Türkiye et histoire: Carte du Monde, Provinces et Plaques, Histoire et Dates, Cuisine du Monde, Art et Littérature
+• Sciences et nature: Éléments et Sciences, Animaux et Nature, Espace et Astronomie
 
 Points forts
 • 100 000 niveaux par jeu ; chaque question est créée à partir de données et n’a qu’une seule bonne réponse.

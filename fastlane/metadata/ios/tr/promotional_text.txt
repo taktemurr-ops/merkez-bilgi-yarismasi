@@ -1,1 +1,1 @@
-12 bilgi oyunu: harita, iller, elementler, hayvanlar, tarih ve düello!
+15 bilgi oyunu: harita, iller, elementler, hayvanlar, tarih ve düello!

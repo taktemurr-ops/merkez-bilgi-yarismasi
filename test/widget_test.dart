@@ -15,8 +15,10 @@ void main() {
       'oyun-turkiye-illeri-ve-plakalar',
       'oyun-tarih-ve-tarihler',
       'oyun-dunya-mutfagi',
+      'oyun-sanat-ve-edebiyat',
       'oyun-elementler-ve-bilim',
       'oyun-hayvanlar-ve-doga',
+      'oyun-uzay-ve-astronomi',
       'oyun-spor-bilgisi',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();

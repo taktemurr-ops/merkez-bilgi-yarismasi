@@ -59,6 +59,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
       ref: 07f579b9878e7a7a7ec92a797e9eb3c0de7b5db3
+  oyun_sanat_ve_edebiyat:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sanat-ve-edebiyat
+      ref: main
+  oyun_uzay_ve_astronomi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-uzay-ve-astronomi
+      ref: main
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga

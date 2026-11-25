@@ -1,8 +1,8 @@
-Quiz Wiedzy łączy 12 quizów w jednej aplikacji: znajduj kraje, dotykając mapy, poznaj 81 prowincji Turcji i ich kody, układ okresowy, planety, świat zwierząt i oś czasu. Każde pytanie powstaje z otwartych danych, a po odpowiedzi pojawia się krótkie wyjaśnienie. Dwie osoby mogą zagrać pojedynek na jednym telefonie.
+Quiz Wiedzy łączy 15 quizów w jednej aplikacji: znajduj kraje, dotykając mapy, poznaj 81 prowincji Turcji i ich kody, układ okresowy, planety, świat zwierząt i oś czasu. Każde pytanie powstaje z otwartych danych, a po odpowiedzi pojawia się krótkie wyjaśnienie. Dwie osoby mogą zagrać pojedynek na jednym telefonie.
 
 • Mieszane i szybkie: Wiedza Ogólna, Co bardziej?, Prawda czy zmyślenie?, Mistrz Szacowania, Ułóż po kolei, Pojedynek Wiedzy
-• Świat, Turcja i historia: Mapa Świata, Prowincje i Tablice, Historia i Daty, Kuchnie Świata
-• Nauka i przyroda: Pierwiastki i Nauka, Zwierzęta i Przyroda
+• Świat, Turcja i historia: Mapa Świata, Prowincje i Tablice, Historia i Daty, Kuchnie Świata, Sztuka i literatura
+• Nauka i przyroda: Pierwiastki i Nauka, Zwierzęta i Przyroda, Kosmos i astronomia
 
 Najważniejsze
 • 100 000 poziomów na grę; każde pytanie powstaje z danych i ma sprawdzoną jedną dobrą odpowiedź.

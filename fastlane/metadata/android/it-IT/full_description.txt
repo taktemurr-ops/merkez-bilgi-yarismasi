@@ -1,8 +1,8 @@
-Quiz di Cultura riunisce 12 quiz in un’app: trova i paesi toccando la mappa, impara le 81 province della Turchia e i loro codici, la tavola periodica, i pianeti, il regno animale e la linea del tempo. Ogni domanda nasce da dati aperti e ogni risposta ha una breve spiegazione. Due giocatori possono sfidarsi faccia a faccia su un telefono.
+Quiz di Cultura riunisce 15 quiz in un’app: trova i paesi toccando la mappa, impara le 81 province della Turchia e i loro codici, la tavola periodica, i pianeti, il regno animale e la linea del tempo. Ogni domanda nasce da dati aperti e ogni risposta ha una breve spiegazione. Due giocatori possono sfidarsi faccia a faccia su un telefono.
 
 • Misti e veloci: Cultura Generale, Quale di più?, Vero o Inventato?, Maestro della Stima, Mettili in Ordine, Duello di Sapere
-• Mondo, Turchia e storia: Mappa del Mondo, Province e Targhe, Storia e Date, Cucina del Mondo
-• Scienza e natura: Elementi e Scienza, Animali e Natura
+• Mondo, Turchia e storia: Mappa del Mondo, Province e Targhe, Storia e Date, Cucina del Mondo, Arte e Letteratura
+• Scienza e natura: Elementi e Scienza, Animali e Natura, Spazio e Astronomia
 
 In evidenza
 • 100.000 livelli per gioco; ogni domanda nasce dai dati e ha una sola risposta giusta verificata.

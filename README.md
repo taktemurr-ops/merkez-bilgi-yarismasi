@@ -14,7 +14,9 @@ Bilgi Yarışması ailesinin **merkez uygulaması**: 12 bilgi oyununu tek mağaz
 | İller ve Plakalar | [oyun-turkiye-illeri-ve-plakalar](https://github.com/taktemurr-ops/oyun-turkiye-illeri-ve-plakalar) |
 | Tarih ve Tarihler | [oyun-tarih-ve-tarihler](https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler) |
 | Dünya Mutfağı | [oyun-dunya-mutfagi](https://github.com/taktemurr-ops/oyun-dunya-mutfagi) |
+| Sanat ve Edebiyat | [oyun-sanat-ve-edebiyat](https://github.com/taktemurr-ops/oyun-sanat-ve-edebiyat) |
 | Elementler ve Bilim | [oyun-elementler-ve-bilim](https://github.com/taktemurr-ops/oyun-elementler-ve-bilim) |
 | Hayvanlar ve Doğa | [oyun-hayvanlar-ve-doga](https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga) |
+| Uzay ve Astronomi | [oyun-uzay-ve-astronomi](https://github.com/taktemurr-ops/oyun-uzay-ve-astronomi) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-bilgi-yarismasi/releases/download/test/merkez-bilgi-yarismasi.apk

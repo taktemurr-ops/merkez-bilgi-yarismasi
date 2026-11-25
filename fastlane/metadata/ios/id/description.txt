@@ -1,8 +1,8 @@
-Kuis Pengetahuan menghimpun 12 permainan kuis dalam satu aplikasi: temukan negara dengan mengetuk peta, kenali 81 provinsi Türkiye dan kodenya, tabel periodik, planet, dunia hewan, dan garis waktu. Setiap soal dibuat dari data terbuka dan setiap jawaban diikuti penjelasan singkat. Dua pemain bisa berduel di satu ponsel.
+Kuis Pengetahuan menghimpun 15 permainan kuis dalam satu aplikasi: temukan negara dengan mengetuk peta, kenali 81 provinsi Türkiye dan kodenya, tabel periodik, planet, dunia hewan, dan garis waktu. Setiap soal dibuat dari data terbuka dan setiap jawaban diikuti penjelasan singkat. Dua pemain bisa berduel di satu ponsel.
 
 • Campuran dan cepat: Pengetahuan Umum, Mana yang Lebih?, Benar atau Karangan?, Jago Menaksir, Urutkan Yuk, Duel Pengetahuan
-• Dunia, Türkiye, dan sejarah: Peta Dunia, Provinsi dan Pelat, Sejarah dan Tahun, Dapur Dunia
-• Sains dan alam: Unsur dan Sains, Hewan dan Alam
+• Dunia, Türkiye, dan sejarah: Peta Dunia, Provinsi dan Pelat, Sejarah dan Tahun, Dapur Dunia, Seni dan Sastra
+• Sains dan alam: Unsur dan Sains, Hewan dan Alam, Antariksa dan Astronomi
 
 Sorotan
 • 100.000 level per permainan; setiap soal dibuat dari data dan diperiksa hanya punya satu jawaban benar.
