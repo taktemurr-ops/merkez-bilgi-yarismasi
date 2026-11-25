@@ -62,11 +62,11 @@ dependencies:
   oyun_sanat_ve_edebiyat:
     git:
       url: https://github.com/taktemurr-ops/oyun-sanat-ve-edebiyat
-      ref: main
+      ref: 5ffac92da8511cdaed6b0b178085df1e27226c69
   oyun_uzay_ve_astronomi:
     git:
       url: https://github.com/taktemurr-ops/oyun-uzay-ve-astronomi
-      ref: main
+      ref: 1d52259f31dcd9eb53afc2644b4497e2575aa763
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
@@ -92,7 +92,7 @@ dependency_overrides:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 282781f5160c157ce19817dd5573a19c029381df
+      ref: 0b3aa49a5be024314ef8e334951fbdc64c380a4f
 
 dev_dependencies:
   flutter_test:
