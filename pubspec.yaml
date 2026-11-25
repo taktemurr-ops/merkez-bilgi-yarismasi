@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
+      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_genel_kultur:
     git:
@@ -66,7 +66,7 @@ dependencies:
   oyun_spor_bilgisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-spor-bilgisi
-      ref: main
+      ref: 104ae5bebc19e610f3a006183d2a74c6ecedd74b
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -80,11 +80,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
+      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 5675ce076f8f3a1f5fa2210534f87917b4415ef3
+      ref: 90adb31b014af16b667427e8956ed54645ce7752
 
 dev_dependencies:
   flutter_test:
