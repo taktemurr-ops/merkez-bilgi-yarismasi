@@ -17,6 +17,7 @@ void main() {
       'oyun-dunya-mutfagi',
       'oyun-elementler-ve-bilim',
       'oyun-hayvanlar-ve-doga',
+      'oyun-spor-bilgisi',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

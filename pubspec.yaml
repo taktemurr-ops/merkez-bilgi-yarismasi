@@ -63,6 +63,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
       ref: 3e2dd1d4f51aa9ee76674ecad643c2f9b0458f0b
+  oyun_spor_bilgisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-spor-bilgisi
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

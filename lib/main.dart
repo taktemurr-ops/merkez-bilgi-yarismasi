@@ -8,6 +8,7 @@ import 'package:oyun_genel_kultur/oyun_genel_kultur.dart';
 import 'package:oyun_hangisi_daha/oyun_hangisi_daha.dart';
 import 'package:oyun_hayvanlar_ve_doga/oyun_hayvanlar_ve_doga.dart';
 import 'package:oyun_sirala_bakalim/oyun_sirala_bakalim.dart';
+import 'package:oyun_spor_bilgisi/oyun_spor_bilgisi.dart';
 import 'package:oyun_tahmin_ustasi/oyun_tahmin_ustasi.dart';
 import 'package:oyun_tarih_ve_tarihler/oyun_tarih_ve_tarihler.dart';
 import 'package:oyun_turkiye_illeri_ve_plakalar/oyun_turkiye_illeri_ve_plakalar.dart';
@@ -105,6 +106,7 @@ final hubConfig = HubConfig(
     dunyaMutfagiConfig,
     elementlerBilimConfig,
     hayvanlarDogaConfig,
+    sporBilgisiConfig,
   ],
   starters: ['oyun-genel-kultur', 'oyun-dunya-haritasi-yerlestirme', 'oyun-bilgi-duellosu'],
   covers: const {
@@ -117,6 +119,7 @@ final hubConfig = HubConfig(
     'oyun-hangisi-daha': GameCover('scalec'),
     'oyun-hayvanlar-ve-doga': GameCover('pawc'),
     'oyun-sirala-bakalim': GameCover('stairc'),
+    'oyun-spor-bilgisi': GameCover('ball'),
     'oyun-tahmin-ustasi': GameCover('gaugec'),
     'oyun-tarih-ve-tarihler': GameCover('timelinec'),
     'oyun-turkiye-illeri-ve-plakalar': GameCover('platec', label: '34'),
@@ -234,6 +237,43 @@ final hubConfig = HubConfig(
           'Agham at kalikasan',
         ],
         ids: ['oyun-elementler-ve-bilim', 'oyun-hayvanlar-ve-doga']),
+    HubSection(
+        title: [
+          'Spor',
+          'Sports',
+          'Sport',
+          'Deportes',
+          'Sport',
+          'الرياضة',
+          'ورزش',
+          'ספורט',
+          'کھیل',
+          'Спорт',
+          'Спорт',
+          'Sport',
+          'Sport',
+          'Sport',
+          'Sport',
+          'Αθλητισμός',
+          'Sport',
+          'Desporto',
+          'Sport',
+          'Sport',
+          'Sport',
+          'Sport',
+          'Urheilu',
+          'スポーツ',
+          '스포츠',
+          '体育',
+          'खेल',
+          'খেলাধুলা',
+          'Olahraga',
+          'Sukan',
+          'กีฬา',
+          'Thể thao',
+          'Isport',
+        ],
+        ids: ['oyun-spor-bilgisi']),
   ],
 );
 
