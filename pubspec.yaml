@@ -13,68 +13,68 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_genel_kultur:
     git:
       url: https://github.com/taktemurr-ops/oyun-genel-kultur
-      ref: 48628fc6deec647101927501ea1fb0495b16cdf2
+      ref: cefce05f14465c13424cd92bb2364e6bbe9f3d07
   oyun_hangisi_daha:
     git:
       url: https://github.com/taktemurr-ops/oyun-hangisi-daha
-      ref: c3564a1560088a94decc1b1d9f348fa7b5b70053
+      ref: 70b90449fbd0b4bb843142e9c087cff7fa163d19
   oyun_dogru_mu_uydurma_mi:
     git:
       url: https://github.com/taktemurr-ops/oyun-dogru-mu-uydurma-mi
-      ref: fa613a59817059d7e155143d4fab3ef2d6217836
+      ref: 837d23e0b1141a3252ded8094dcb9f25f445848c
   oyun_tahmin_ustasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-tahmin-ustasi
-      ref: e611023e4b76870a43b07c56350731973bbb198f
+      ref: fd1a5650dd45f1ec74ab10046e6380b5058ce7ec
   oyun_sirala_bakalim:
     git:
       url: https://github.com/taktemurr-ops/oyun-sirala-bakalim
-      ref: 40b8bd181bc3af40ba86d3341e1e3dfd869914cc
+      ref: d5d3d202752debcf9485be4effd07d47dd9e91d1
   oyun_bilgi_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilgi-duellosu
-      ref: 833a9fbb37b82825bae836a11892427de611be90
+      ref: db9e092909124f9ba7cd5947cc6f7522888adbe2
   oyun_dunya_haritasi_yerlestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-dunya-haritasi-yerlestirme
-      ref: 08ec85b286db9d1d3f180c0131a15139dfcc5b23
+      ref: 421068f80b8f9fad3b22fc0789728a8eeb687ff6
   oyun_turkiye_illeri_ve_plakalar:
     git:
       url: https://github.com/taktemurr-ops/oyun-turkiye-illeri-ve-plakalar
-      ref: f7e084b5e1421fa4549d368136e310ac57854b3d
+      ref: ddd34ebcc5e1cbe441ad1ce01fc098e34cbbc4f1
   oyun_tarih_ve_tarihler:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarih-ve-tarihler
-      ref: b33a4e285f2fa58bd6f2ca667218ea7f7347fe32
+      ref: 362d9fcbfa80c08049cf7c03594c13dadf3c8533
   oyun_dunya_mutfagi:
     git:
       url: https://github.com/taktemurr-ops/oyun-dunya-mutfagi
-      ref: 0e25bd864e9525802a2ce413af234b14e0271c09
+      ref: 0a3ed12656fa1fd38043874d3214d43e1c8eddad
   oyun_elementler_ve_bilim:
     git:
       url: https://github.com/taktemurr-ops/oyun-elementler-ve-bilim
-      ref: 07f579b9878e7a7a7ec92a797e9eb3c0de7b5db3
+      ref: d6675fb5311a5c14547bcbfd8b7ea9d8b0804024
   oyun_sanat_ve_edebiyat:
     git:
       url: https://github.com/taktemurr-ops/oyun-sanat-ve-edebiyat
-      ref: 5ffac92da8511cdaed6b0b178085df1e27226c69
+      ref: 2c010da08c0a126e4496a9c267621552220e0970
   oyun_uzay_ve_astronomi:
     git:
       url: https://github.com/taktemurr-ops/oyun-uzay-ve-astronomi
-      ref: 1d52259f31dcd9eb53afc2644b4497e2575aa763
+      ref: 00b0723da9c55462a43335c46021e4623bd0e3de
   oyun_hayvanlar_ve_doga:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga
-      ref: e2501b6dfa09fb2f23ed0dc1f0ac94c162a8a23c
+      ref: 525c0db47078f8a6baebba85a30a90b3f82c3c1a
   oyun_spor_bilgisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-spor-bilgisi
-      ref: 9cf691681f1de25d664c287207daabda8ffa8208
+      ref: a75927d13a1b719fd39788e8e704a6325c9b4455
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -88,11 +88,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 0b3aa49a5be024314ef8e334951fbdc64c380a4f
+      ref: 171dbdd1e7858e3f188a0a5d10454c8d0482eeea
 
 dev_dependencies:
   flutter_test:
