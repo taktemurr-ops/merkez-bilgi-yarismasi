@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:oyun_aklimdan_tuttum/oyun_aklimdan_tuttum.dart';
 import 'package:oyun_bilgi_duellosu/oyun_bilgi_duellosu.dart';
+import 'package:oyun_bilgi_merdiveni/oyun_bilgi_merdiveni.dart';
 import 'package:oyun_dogru_mu_uydurma_mi/oyun_dogru_mu_uydurma_mi.dart';
 import 'package:oyun_dunya_haritasi_yerlestirme/oyun_dunya_haritasi_yerlestirme.dart';
 import 'package:oyun_dunya_mutfagi/oyun_dunya_mutfagi.dart';
 import 'package:oyun_elementler_ve_bilim/oyun_elementler_ve_bilim.dart';
 import 'package:oyun_genel_kultur/oyun_genel_kultur.dart';
+import 'package:oyun_halk_ne_dedi/oyun_halk_ne_dedi.dart';
 import 'package:oyun_hangisi_daha/oyun_hangisi_daha.dart';
 import 'package:oyun_hayvanlar_ve_doga/oyun_hayvanlar_ve_doga.dart';
 import 'package:oyun_sanat_ve_edebiyat/oyun_sanat_ve_edebiyat.dart';
@@ -13,6 +16,7 @@ import 'package:oyun_spor_bilgisi/oyun_spor_bilgisi.dart';
 import 'package:oyun_tahmin_ustasi/oyun_tahmin_ustasi.dart';
 import 'package:oyun_tarih_ve_tarihler/oyun_tarih_ve_tarihler.dart';
 import 'package:oyun_turkiye_illeri_ve_plakalar/oyun_turkiye_illeri_ve_plakalar.dart';
+import 'package:oyun_ulke_silueti/oyun_ulke_silueti.dart';
 import 'package:oyun_uzay_ve_astronomi/oyun_uzay_ve_astronomi.dart';
 import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
@@ -112,6 +116,10 @@ final hubConfig = HubConfig(
     hayvanlarDogaConfig,
     uzayVeAstronomiConfig,
     sporBilgisiConfig,
+    aklimdanConfig,
+    halkConfig,
+    merdivenConfig,
+    siluetConfig,
   ],
   starters: ['oyun-genel-kultur', 'oyun-dunya-haritasi-yerlestirme', 'oyun-bilgi-duellosu'],
   covers: const {
@@ -130,6 +138,10 @@ final hubConfig = HubConfig(
     'oyun-tarih-ve-tarihler': GameCover('timelinec'),
     'oyun-turkiye-illeri-ve-plakalar': GameCover('platec', label: '34'),
     'oyun-uzay-ve-astronomi': GameCover('astroc'),
+    'oyun-aklimdan-tuttum': GameCover("geniec"),
+    'oyun-halk-ne-dedi': GameCover("surveyc"),
+    'oyun-bilgi-merdiveni': GameCover("quizladderc"),
+    'oyun-ulke-silueti': GameCover("silhouettec"),
   },
   defaultCover: const GameCover('quizc', v: 1),
   sections: [
@@ -169,7 +181,7 @@ final hubConfig = HubConfig(
           'Tổng hợp và nhanh',
           'Halo-halo at mabilis',
         ],
-        ids: ['oyun-genel-kultur', 'oyun-hangisi-daha', 'oyun-dogru-mu-uydurma-mi', 'oyun-tahmin-ustasi', 'oyun-sirala-bakalim', 'oyun-bilgi-duellosu']),
+        ids: ['oyun-genel-kultur', 'oyun-hangisi-daha', 'oyun-dogru-mu-uydurma-mi', 'oyun-tahmin-ustasi', 'oyun-sirala-bakalim', 'oyun-bilgi-duellosu', 'oyun-halk-ne-dedi', 'oyun-bilgi-merdiveni']),
     HubSection(
         title: [
           'Dünya, Türkiye ve tarih',
@@ -206,7 +218,7 @@ final hubConfig = HubConfig(
           'Thế giới, Thổ Nhĩ Kỳ và lịch sử',
           'Mundo, Türkiye at kasaysayan',
         ],
-        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler', 'oyun-dunya-mutfagi', 'oyun-sanat-ve-edebiyat']),
+        ids: ['oyun-dunya-haritasi-yerlestirme', 'oyun-turkiye-illeri-ve-plakalar', 'oyun-tarih-ve-tarihler', 'oyun-dunya-mutfagi', 'oyun-sanat-ve-edebiyat', 'oyun-ulke-silueti']),
     HubSection(
         title: [
           'Bilim ve doğa',
@@ -243,7 +255,7 @@ final hubConfig = HubConfig(
           'Khoa học và thiên nhiên',
           'Agham at kalikasan',
         ],
-        ids: ['oyun-elementler-ve-bilim', 'oyun-hayvanlar-ve-doga', 'oyun-uzay-ve-astronomi']),
+        ids: ['oyun-elementler-ve-bilim', 'oyun-hayvanlar-ve-doga', 'oyun-uzay-ve-astronomi', 'oyun-aklimdan-tuttum']),
     HubSection(
         title: [
           'Spor',

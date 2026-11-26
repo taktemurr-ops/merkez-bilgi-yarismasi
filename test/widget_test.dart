@@ -20,6 +20,10 @@ void main() {
       'oyun-hayvanlar-ve-doga',
       'oyun-uzay-ve-astronomi',
       'oyun-spor-bilgisi',
+      'oyun-aklimdan-tuttum',
+      'oyun-halk-ne-dedi',
+      'oyun-bilgi-merdiveni',
+      'oyun-ulke-silueti',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

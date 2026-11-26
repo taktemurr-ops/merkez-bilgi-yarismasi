@@ -18,5 +18,9 @@ Bilgi Yarışması ailesinin **merkez uygulaması**: 12 bilgi oyununu tek mağaz
 | Elementler ve Bilim | [oyun-elementler-ve-bilim](https://github.com/taktemurr-ops/oyun-elementler-ve-bilim) |
 | Hayvanlar ve Doğa | [oyun-hayvanlar-ve-doga](https://github.com/taktemurr-ops/oyun-hayvanlar-ve-doga) |
 | Uzay ve Astronomi | [oyun-uzay-ve-astronomi](https://github.com/taktemurr-ops/oyun-uzay-ve-astronomi) |
+| Aklımdan Tuttum | [oyun-aklimdan-tuttum](https://github.com/taktemurr-ops/oyun-aklimdan-tuttum) |
+| Halk Ne Dedi? | [oyun-halk-ne-dedi](https://github.com/taktemurr-ops/oyun-halk-ne-dedi) |
+| Bilgi Merdiveni | [oyun-bilgi-merdiveni](https://github.com/taktemurr-ops/oyun-bilgi-merdiveni) |
+| Ülke Silüeti | [oyun-ulke-silueti](https://github.com/taktemurr-ops/oyun-ulke-silueti) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-bilgi-yarismasi/releases/download/test/merkez-bilgi-yarismasi.apk

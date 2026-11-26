@@ -1,8 +1,8 @@
-Wissensquiz vereint 15 Quizspiele in einer App. Finde Länder per Tipp auf die Karte, lerne die 81 Provinzen der Türkei samt Kennzeichen, entdecke Periodensystem und Planeten, das Tierreich und den Zeitstrahl der Geschichte. Jede Frage entsteht aus offenen Daten, nach jeder Antwort folgt eine kurze Erklärung. Zwei Spieler können sich an einem Handy duellieren.
+Wissensquiz vereint 19 Quizspiele in einer App. Finde Länder per Tipp auf die Karte, lerne die 81 Provinzen der Türkei samt Kennzeichen, entdecke Periodensystem und Planeten, das Tierreich und den Zeitstrahl der Geschichte. Jede Frage entsteht aus offenen Daten, nach jeder Antwort folgt eine kurze Erklärung. Zwei Spieler können sich an einem Handy duellieren.
 
-• Gemischt und schnell: Allgemeinwissen, Was ist mehr?, Wahr oder erfunden?, Schätzmeister, Bring es in Ordnung, Quiz-Duell
-• Welt, Türkei und Geschichte: Weltkarten-Quiz, Provinzen und Kennzeichen, Geschichte und Daten, Weltküche, Kunst und Literatur
-• Wissenschaft und Natur: Elemente und Wissenschaft, Tiere und Natur, Weltraum und Astronomie
+• Gemischt und schnell: Allgemeinwissen, Was ist mehr?, Wahr oder erfunden?, Schätzmeister, Bring es in Ordnung, Quiz-Duell, Was sagten die Leute?, Wissensleiter
+• Welt, Türkei und Geschichte: Weltkarten-Quiz, Provinzen und Kennzeichen, Geschichte und Daten, Weltküche, Kunst und Literatur, Länder-Silhouette
+• Wissenschaft und Natur: Elemente und Wissenschaft, Tiere und Natur, Weltraum und Astronomie, Gedankenleser-Geist
 
 Highlights
 • 100.000 Level pro Spiel; jede Frage entsteht aus Daten und hat garantiert genau eine richtige Antwort.

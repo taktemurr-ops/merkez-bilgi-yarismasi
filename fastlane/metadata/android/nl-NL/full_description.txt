@@ -1,8 +1,8 @@
-Kennisquiz bundelt 15 quizspellen in één app: vind landen door op de kaart te tikken, leer de 81 provincies van Turkije en hun codes, het periodiek systeem, de planeten, het dierenrijk en de tijdlijn. Elke vraag komt uit open data en na elk antwoord volgt een korte uitleg. Twee spelers kunnen op één telefoon een duel spelen.
+Kennisquiz bundelt 19 quizspellen in één app: vind landen door op de kaart te tikken, leer de 81 provincies van Turkije en hun codes, het periodiek systeem, de planeten, het dierenrijk en de tijdlijn. Elke vraag komt uit open data en na elk antwoord volgt een korte uitleg. Twee spelers kunnen op één telefoon een duel spelen.
 
-• Gemengd en snel: Algemene Kennis, Wat is meer?, Waar of Verzonnen?, Meester in Schatten, Zet ze op Volgorde, Kennisduel
-• Wereld, Turkije en geschiedenis: Wereldkaart, Provincies en Kentekens, Geschiedenis en Data, Wereldkeuken, Kunst en Literatuur
-• Wetenschap en natuur: Elementen en Wetenschap, Dieren en Natuur, Ruimte en Sterrenkunde
+• Gemengd en snel: Algemene Kennis, Wat is meer?, Waar of Verzonnen?, Meester in Schatten, Zet ze op Volgorde, Kennisduel, Wat zeiden de mensen?, Kennisladder
+• Wereld, Turkije en geschiedenis: Wereldkaart, Provincies en Kentekens, Geschiedenis en Data, Wereldkeuken, Kunst en Literatuur, Landsilhouet
+• Wetenschap en natuur: Elementen en Wetenschap, Dieren en Natuur, Ruimte en Sterrenkunde, De Gedachtenlezer
 
 Hoogtepunten
 • 100.000 levels per spel; elke vraag komt uit data en heeft gegarandeerd één juist antwoord.

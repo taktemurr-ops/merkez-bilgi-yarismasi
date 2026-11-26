@@ -75,6 +75,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-spor-bilgisi
       ref: a75927d13a1b719fd39788e8e704a6325c9b4455
+  oyun_aklimdan_tuttum:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-aklimdan-tuttum
+      ref: 5119536e4e6919136acf9dd31a28df21627c4303
+  oyun_halk_ne_dedi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-halk-ne-dedi
+      ref: 1f72744627ed21b2edf7e871b82885c5e6aa7de4
+  oyun_bilgi_merdiveni:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bilgi-merdiveni
+      ref: 547bbedfcbe6d56e16e1f79e2366203488397662
+  oyun_ulke_silueti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ulke-silueti
+      ref: 0bfbee9a5b698bf51567eddc5d6e169445e746fe
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -92,7 +108,7 @@ dependency_overrides:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: 171dbdd1e7858e3f188a0a5d10454c8d0482eeea
+      ref: 51637b331e54830f48a7aceedb4ca21c48d7b8cd
 
 dev_dependencies:
   flutter_test:

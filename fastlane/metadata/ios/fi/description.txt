@@ -1,8 +1,8 @@
-Tietovisa kokoaa 15 tietovisaa yhteen sovellukseen: etsi maat napauttamalla karttaa, opi Turkin 81 maakuntaa ja niiden koodit, jaksollinen järjestelmä, planeetat, eläinkunta ja aikajana. Jokainen kysymys syntyy avoimesta datasta, ja vastauksen jälkeen tulee lyhyt selitys. Kaksi pelaajaa voi kaksintaistella samalla puhelimella.
+Tietovisa kokoaa 19 tietovisaa yhteen sovellukseen: etsi maat napauttamalla karttaa, opi Turkin 81 maakuntaa ja niiden koodit, jaksollinen järjestelmä, planeetat, eläinkunta ja aikajana. Jokainen kysymys syntyy avoimesta datasta, ja vastauksen jälkeen tulee lyhyt selitys. Kaksi pelaajaa voi kaksintaistella samalla puhelimella.
 
-• Sekalaiset ja nopeat: Yleistieto, Kumpi enemmän?, Totta vai Keksittyä?, Arviointimestari, Laita Järjestykseen, Tietokaksintaistelu
-• Maailma, Turkki ja historia: Maailmankartta, Maakunnat ja Kilvet, Historia ja Vuosiluvut, Maailman Keittiö, Taide ja kirjallisuus
-• Tiede ja luonto: Alkuaineet ja Tiede, Eläimet ja Luonto, Avaruus ja tähtitiede
+• Sekalaiset ja nopeat: Yleistieto, Kumpi enemmän?, Totta vai Keksittyä?, Arviointimestari, Laita Järjestykseen, Tietokaksintaistelu, Mitä ihmiset sanoivat?, Tietotikkaat
+• Maailma, Turkki ja historia: Maailmankartta, Maakunnat ja Kilvet, Historia ja Vuosiluvut, Maailman Keittiö, Taide ja kirjallisuus, Maan Siluetti
+• Tiede ja luonto: Alkuaineet ja Tiede, Eläimet ja Luonto, Avaruus ja tähtitiede, Ajatustenlukijahenki
 
 Kohokohdat
 • 100 000 tasoa peliä kohden; jokainen kysymys syntyy datasta ja siinä on tarkistetusti yksi oikea vastaus.
