@@ -124,7 +124,7 @@ final hubConfig = HubConfig(
     'oyun-hayvanlar-ve-doga': GameCover('pawc'),
     'oyun-sanat-ve-edebiyat': GameCover('artlitc'),
     'oyun-sirala-bakalim': GameCover('stairc'),
-    'oyun-spor-bilgisi': GameCover('ball'),
+    'oyun-spor-bilgisi': GameCover('sportquizc'),
     'oyun-tahmin-ustasi': GameCover('gaugec'),
     'oyun-tarih-ve-tarihler': GameCover('timelinec'),
     'oyun-turkiye-illeri-ve-plakalar': GameCover('platec', label: '34'),
